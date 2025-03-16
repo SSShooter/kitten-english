@@ -1,7 +1,5 @@
 ---
-slug: "english-grammar-3-infinitive-gerund-participle"
-publishDate: "2025-02-25T03:59:53.309Z"
-title: "小猫英语：当一个动词不是动词"
+title: "当一个动词不是动词"
 tags: ["小猫都能懂的英语语法", "英语"]
 description: "欢迎来到《小猫都能懂的英语语法》第三期，本文告诉你，一个“动词”除了成为谓语动词，还有什么出路"
 ---

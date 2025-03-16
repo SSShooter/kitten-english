@@ -1,7 +1,5 @@
 ---
-slug: "english-grammar-4-subjunctive-mood"
-publishDate: "2025-02-28T02:51:00.877Z"
-title: "小猫英语：有多少种如果"
+title: "有多少种如果"
 tags: ["小猫都能懂的英语语法", "英语"]
 description: "欢迎来到《小猫都能懂的英语语法》第四期，本期的主题是一种中文没有的语法形式——虚拟语气"
 ---

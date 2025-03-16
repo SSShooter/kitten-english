@@ -6,14 +6,18 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: '小猫英语',
+			title: 'Kitten English',
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
 			sidebar: [
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: '基础',
+					autogenerate: { directory: 'basic' },
+				},
+				{
+					label: '语法专题',
+					autogenerate: { directory: 'guides' },
 				},
 			],
 		}),
