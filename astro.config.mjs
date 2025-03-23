@@ -19,6 +19,10 @@ export default defineConfig({
 					label: '语法专题',
 					autogenerate: { directory: 'guides' },
 				},
+				{
+					label: '进阶',
+					autogenerate: { directory: 'extra' },
+				},
 			],
 		}),
 	],
