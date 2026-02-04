@@ -6,6 +6,7 @@ import netlify from '@astrojs/netlify';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://ke.ssshooter.com/',
   integrations: [
       starlight({
           title: 'Kitten English',
